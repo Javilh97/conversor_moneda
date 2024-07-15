@@ -5,17 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56e9ada4-eedd-4ee1-bd05-54adad383407" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/TasaConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/TasaConversionAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/principal/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/ConsumoAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/ConvierteDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/TasaConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/TasaConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/TasaConversionAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/TasaConversionAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/principal/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/ConsumoAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/ConsumoAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/ConvierteDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/ConvierteDatos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +43,28 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Escritorio/ONE G6/2.- Java Orientado a Objetos G6 - ONE/4.- Java - consumir API, escribir archivos y manejar errores/screenmatch",
+    "last_opened_file_path": "D:/Descargas/gson-2.10.1.jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="conversor_moneda-main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="conversor_moneda-main" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
